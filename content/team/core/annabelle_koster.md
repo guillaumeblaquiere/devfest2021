@@ -1,7 +1,7 @@
 ---
 title: Annabelle Koster
 type: core
-subtitle: Talent Advocate Sfeir Nantes
+subtitle: Tech Community Ambassador Sfeir
 photo: annabelle.png
 socials:
   - link: 'https://twitter.com/AnnabelleKoster'

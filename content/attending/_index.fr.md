@@ -41,7 +41,7 @@ draft: false
 
 ## Horaires d'ouverture
 
-Les portes de la Cité des Congrès ouvriront de 8h00 à 20h00 le jeudi 21 Octobre et de 8h30 à 19h00 le vendredi 22 Octobre.
+Les portes de la Cité des Congrès ouvriront de 8h00 à 20h00 le jeudi 21 Octobre et de 8h00 à 19h00 le vendredi 22 Octobre.
 
 {{% /default-section %}}
 
