@@ -271,7 +271,7 @@
         - slot: pause-5-day-2
           talk: __pause
         - slot: slot-7-day-2
-          talk: specify_and_assert_architecture_rules_in_plain_java__with_archunit__you_won_t_get_fooled_again___
+          talk: java_a_la_vitesse_de_la_lumiere_grace_au_graal__
     - room: room_codelab1
       slots: 
         - slot: codelab-1-day-2
