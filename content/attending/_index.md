@@ -61,6 +61,19 @@ In La Cité des Congrès all areas are accessible for wheelchair users.
 
 This year, due to the the sanitary situation, some precautionary measures will be applied, including the verification of a european sanitary pass. All informations are available on this website: https://www.gouvernement.fr/en/coronavirus-covid-19
 
+## Where to sleep ?
+
+The DevFest Nantes Organising Team has negotiated special price (exclusively for the event) with Residhome.
+
+<strong>Hôtel Residhome</strong><br>
+3 allée Jacques Berque<br>
+44000 Nantes<br>
+Tél : <a href="tel:+33240990707">+33 (0)2 40 99 07 07</a><br>
+Email: <a href="mailto:nantes.bergesdelaloire@residhome.com">nantes.bergesdelaloire@residhome.com</a><br>
+<a href="https://www.google.fr/maps/place/Residhome+Nantes+Berges+de+la+Loire/@47.2122877,-1.5388464,15z/data=!4m2!3m1!1s0x0:0x2b56e1873da0f956" target="_blank" style="color: var(--darken-3)">Google Maps Link</a>
+
+The Serviced Apartments are located just across La Cité des Congrès. To avail of the special rates at The Residhome les Berges de la Loire, kindly use the Discounted rate code "<strong>DEVFEST2021</strong>".
+
 ## How to get there?
 
 ### By train

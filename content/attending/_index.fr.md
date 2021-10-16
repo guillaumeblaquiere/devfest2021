@@ -61,6 +61,18 @@ Le GDG Nantes s'efforce de rendre cet événement ouvert et accessible à tous, 
 
 Cette année, étant donné la situation sanitaire, des mesures de préventions seront appliquées conformément aux préconisations du gouvernement. Cela inclue la vérification du pass sanitaire. Toutes les informations sont disponibles sur ce site: https://www.gouvernement.fr/info-coronavirus
 
+## Où dormir ?
+
+L'équipe du DevFest Nantes a négocié des prix auprès de l'hôtel Residhome pour les participants de l'événement.
+
+<strong>Hôtel Residhome</strong><br>
+3 allée Jacques Berque<br>
+44000 Nantes<br>
+Tél : <a href="tel:+33240990707">+33 (0)2 40 99 07 07</a><br>
+Email: <a href="mailto:nantes.bergesdelaloire@residhome.com">nantes.bergesdelaloire@residhome.com</a><br>
+<a href="https://www.google.fr/maps/place/Residhome+Nantes+Berges+de+la+Loire/@47.2122877,-1.5388464,15z/data=!4m2!3m1!1s0x0:0x2b56e1873da0f956" target="_blank" style="color: var(--darken-3)">Lien Google Maps</a>
+
+Situé juste en face de la Cité des Congrès, le Residhome les Berges de la Loire vous propose des tarifs négociés avec le code "<strong>DEVFEST2021</strong>".
 
 ## Comment s'y rendre ?
 
