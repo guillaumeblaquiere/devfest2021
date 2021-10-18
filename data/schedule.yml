@@ -72,7 +72,7 @@
         - slot: pause-1-day-1
           talk: __pause
         - slot: slot-1-day-1
-          talk: boosting_adoption_with_custom_eslint_rules
+          talk: tips_pour_combattre_le_syndrome_de_l_imposteur
         - slot: pause-2-day-1
           talk: __pause
         - slot: slot-2-day-1
