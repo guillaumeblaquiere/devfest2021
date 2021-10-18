@@ -2,7 +2,8 @@
 key: tips_pour_combattre_le_syndrome_de_l_imposteur
 title: Tips pour combattre le syndrome de l'imposteur
 id: iDWSjGfWX8OLxBppd8PC
-talkType: quickie
+language: French
+talkType: conference
 tags:
   - discovery
 complexity: Beginner
