@@ -12,7 +12,7 @@ publishDate: 2021-10-04
   <u>Avant d’entrer dans la cité, avoir avec soi:</u>
   <ul>
     <li>
-      <strong>Son badge personnalisé</strong> avant l'événement. Vos coupons sont à personnaliser via ce <a href="https://www.billetweb.fr/devfest-Nantes" target="_blank">lien</a>
+      <strong>Son billet personnalisé</strong> avant l'événement. Vos coupons sont à personnaliser via ce <a href="https://www.billetweb.fr/devfest-Nantes" target="_blank">lien</a>
     </li>
     <li>
       <strong>Son billet personnalisé en format numérique OU papier</strong> à présenter lors du contrôle du pass à l'extérieur de la cité + à l’entrée pour récupérer son badge.
